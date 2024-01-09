@@ -1,0 +1,33 @@
+body {
+    background-image: url('D:\wp2939697.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+h1, h1, h3, h4, h5, h6, p, pre {
+
+text-shadow: 5px;
+font-family: placeebo, sans-serif;
+color: aliceblue;
+}
+
+#round{
+    border-radius: 30%;
+    border-color: black;
+    border-width: 10px;
+    position: relative;
+}
+
+#border{
+    
+    border: 5px solid rgb(111, 0, 255);
+}
+
+#border-circle{
+    
+    border: 5px solid rgb(111, 0, 255);
+    border-radius: 100%;
+}
